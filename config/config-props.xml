@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!-- tqos-text-reader properties
+	-->
+
+<properties>
+
+	<parameter name="MyDatabasePath" value = "data/mydata/LinkData" /> <!-- CHANGEME -->
+	<parameter name="MyDatabaseName"  value = "links" />		  <!-- CHANGEME -->
+	<parameter name="BASEDatabasePath" value = "data/" /> <!-- CHANGEME -->
+
+	<parameter name="Neo4J" value="bolt://localhost:7687" />
+	<!-- neo4j credentials -->
+	<parameter name="UName" value = "neo4j" /> <!-- CHANGEME -->
+	<parameter name="Pwd" value = "testing!" /> <!-- CHANGEME -->
+
+
+
+</properties>
+
